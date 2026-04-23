@@ -1,0 +1,4 @@
+node_modules/
+test-results/
+*.pptx
+package-lock.json
